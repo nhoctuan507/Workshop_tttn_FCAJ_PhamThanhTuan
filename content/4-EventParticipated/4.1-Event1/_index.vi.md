@@ -6,7 +6,6 @@ chapter: false
 pre: " <b> 4.1. </b> "
 ---
 
-}
 
 # Bài thu hoạch: "FCAJ Community Day"
 

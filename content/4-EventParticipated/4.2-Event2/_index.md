@@ -6,7 +6,6 @@ chapter: false
 pre: " <b> 4.2. </b> "
 ---
 
-}
 
 # Summary Report: "FCAJ Community Day" (May 2026)
 

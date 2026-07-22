@@ -6,7 +6,6 @@ chapter: false
 pre: " <b> 4.1. </b> "
 ---
 
-}
 
 # Summary Report: "FCAJ Community Day"
 

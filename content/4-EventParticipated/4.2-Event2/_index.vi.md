@@ -6,7 +6,6 @@ chapter: false
 pre: " <b> 4.2. </b> "
 ---
 
-}
 
 # Bài thu hoạch: "FCAJ Community Day" (Tháng 5-2026)
 

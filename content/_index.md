@@ -8,7 +8,6 @@ chapter: false
     
 # Internship Report
 
-}
 
 ### Student Information:
 &emsp; **Full Name:** Phạm Thanh Tuấn

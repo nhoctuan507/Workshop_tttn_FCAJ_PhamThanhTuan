@@ -6,7 +6,6 @@ chapter: false
 pre: " <b> 4. </b> "
 ---
 
-}
 
 > Trong phần này, các bạn cần liệt kê và mô tả chi tiết các sự kiện (event) mà mình đã tham gia trong suốt quá trình thực tập hoặc làm việc. 
 > 

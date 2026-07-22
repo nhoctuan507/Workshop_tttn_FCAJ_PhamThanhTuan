@@ -6,7 +6,6 @@ chapter: false
 pre: " <b> 4. </b> "
 ---
 
-}
 
 > In this section, you should list and describe in detail the events you have participated in during your internship or work experience.  
 > 
