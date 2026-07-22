@@ -1,5 +1,5 @@
 baseURL = "https://nhoctuan507.github.io/Workshop_tttn_FCAJ_PhamThanhTuan/"
-relativeURLs = false
+relativeURLs = true
 canonifyURLs = true
 defaultContentLanguage = "en"
 
