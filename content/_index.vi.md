@@ -23,7 +23,7 @@ chapter: false
 
 &emsp; **Vị trí thực tập:** Workforce Bootcamp - First Cloud AI Journey
 
-&emsp; **Thời gian thực tập:** Từ 20-04-2026 đến 11-07-2026
+&emsp; **Thời gian thực tập:** Từ 17/04/2026 đến 10/7/2026
 
 <img src="/images/avatar.jpg" alt="Ảnh đại diện của bạn" style="max-width: 400px; width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.15);" />
 
