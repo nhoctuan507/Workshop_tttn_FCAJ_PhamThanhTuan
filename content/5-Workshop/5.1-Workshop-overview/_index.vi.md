@@ -36,7 +36,7 @@ Kiến trúc của hệ thống bao gồm các thành phần chính sau:
 
 **Hình 1 – Kiến trúc hệ thống Second-Hand Marketplace**
 
-![Kiến trúc hệ thống](/images/5-Workshop/5.1-Workshop-overview/system_architecture.jpg)
+![Kiến trúc hệ thống](/images/5-Workshop/5.1-Workshop-overview/system_architecture.png)
 
 ---
 

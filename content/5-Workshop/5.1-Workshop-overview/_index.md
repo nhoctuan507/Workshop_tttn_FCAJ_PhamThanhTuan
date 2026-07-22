@@ -36,7 +36,7 @@ The architecture consists of several major components:
 
 **Figure 1 – Second-Hand Marketplace Architecture**
 
-![System Architecture](/images/5-Workshop/5.1-Workshop-overview/system_architecture.jpg)
+![System Architecture](/images/5-Workshop/5.1-Workshop-overview/system_architecture.png)
 
 ---
 
