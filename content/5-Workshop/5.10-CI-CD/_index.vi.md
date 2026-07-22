@@ -1,9 +1,9 @@
 ---
 title : "CI/CD"
 date : 2026-01-01
-weight : 9
+weight : 10
 chapter : false
-pre : " <b> 5.9. </b> "
+pre : " <b> 5.10. </b> "
 ---
 
 ### Mục tiêu
@@ -26,7 +26,7 @@ Quá trình này giúp giảm các thao tác triển khai thủ công và đảm
 
 Thực hiện phần sau:
 
-- **5.9.1 Cấu hình AWS CodeBuild**
+- **5.10.1 Cấu hình AWS CodeBuild**
 
 ---
 

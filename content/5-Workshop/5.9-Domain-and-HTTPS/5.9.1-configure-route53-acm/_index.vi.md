@@ -3,7 +3,7 @@ title : "Cấu hình Route 53 và AWS Certificate Manager"
 date : 2026-01-01
 weight : 1
 chapter : false
-pre : " <b> 5.8.1. </b> "
+pre : " <b> 5.9.1. </b> "
 ---
 
 ## Cấu hình Route 53 và AWS Certificate Manager

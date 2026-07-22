@@ -1,9 +1,9 @@
 ---
 title : "Domain and HTTPS"
 date : 2026-01-01
-weight : 8
+weight : 9
 chapter : false
-pre : " <b> 5.8. </b> "
+pre : " <b> 5.9. </b> "
 ---
 
 ### Goal
@@ -26,7 +26,7 @@ After completing this chapter, users will be able to access the application usin
 
 Complete the following section:
 
-- **5.8.1 Configure Route 53 and AWS Certificate Manager**
+- **5.9.1 Configure Route 53 and AWS Certificate Manager**
 
 ---
 

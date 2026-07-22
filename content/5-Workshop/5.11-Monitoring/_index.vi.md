@@ -1,9 +1,9 @@
 ---
 title : "Giám sát hệ thống"
 date : 2026-01-01
-weight : 10
+weight : 11
 chapter : false
-pre : " <b> 5.10. </b> "
+pre : " <b> 5.11. </b> "
 ---
 
 ### Mục tiêu
@@ -24,7 +24,7 @@ Amazon CloudWatch thu thập log và metric từ Amazon ECS, giúp theo dõi ho�
 
 Thực hiện phần sau:
 
-- **5.10.1 Cấu hình Amazon CloudWatch**
+- **5.11.1 Cấu hình Amazon CloudWatch**
 
 ---
 

@@ -3,7 +3,7 @@ title : "Configure Route 53 and AWS Certificate Manager"
 date : 2026-01-01
 weight : 1
 chapter : false
-pre : " <b> 5.8.1. </b> "
+pre : " <b> 5.9.1. </b> "
 ---
 
 ## Configure Route 53 and AWS Certificate Manager

@@ -1,9 +1,9 @@
 ---
 title : "Monitoring"
 date : 2026-01-01
-weight : 10
+weight : 11
 chapter : false
-pre : " <b> 5.10. </b> "
+pre : " <b> 5.11. </b> "
 ---
 
 ### Goal
@@ -24,7 +24,7 @@ Amazon CloudWatch collects logs and metrics from Amazon ECS, allowing you to obs
 
 Complete the following section:
 
-- **5.10.1 Configure Amazon CloudWatch**
+- **5.11.1 Configure Amazon CloudWatch**
 
 ---
 

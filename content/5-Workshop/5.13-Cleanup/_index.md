@@ -1,12 +1,12 @@
 +++
 title = "Cleanup Resources"
 date = 2024-01-01
-weight = 12
+weight = 13
 chapter = false
-pre = "<b>5.12. </b>"
+pre = "<b>5.13. </b>"
 +++
 
-# 5.12. Cleanup
+# 5.13. Cleanup
 
 ## Overview
 

@@ -1,12 +1,12 @@
 ---
 title : "Testing"
 date : 2024-01-01
-weight : 11
+weight : 12
 chapter : false
-pre : " <b> 5.11. </b> "
+pre : " <b> 5.12. </b> "
 ---
 
-# 5.11. Testing
+# 5.12. Testing
 
 This section demonstrates the complete deployment of the Second-Hand Marketplace E-Commerce platform on AWS. It showcases the main user interfaces of the application and explains how each feature interacts with the deployed cloud infrastructure, including Amazon ECS Fargate, Amazon S3, MongoDB Atlas, Amazon Route 53, AWS Certificate Manager (ACM), Application Load Balancer, Amazon CloudWatch, Amazon ECR, and AWS CodeBuild.
 

@@ -3,7 +3,7 @@ title : "Cấu hình Amazon CloudWatch"
 date : 2026-01-01
 weight : 1
 chapter : false
-pre : " <b> 5.10.1. </b> "
+pre : " <b> 5.11.1. </b> "
 ---
 
 # Cấu hình Amazon CloudWatch

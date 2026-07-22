@@ -1,12 +1,12 @@
 +++
 title = "Dọn dẹp tài nguyên"
 date = 2024-01-01
-weight = 12
+weight = 13
 chapter = false
-pre = "<b>5.12. </b>"
+pre = "<b>5.13. </b>"
 +++
 
-# 5.12. Dọn dẹp tài nguyên
+# 5.13. Dọn dẹp tài nguyên
 
 ## Tổng quan
 

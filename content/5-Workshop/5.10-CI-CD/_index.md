@@ -1,9 +1,9 @@
 ---
 title : "CI/CD"
 date : 2026-01-01
-weight : 9
+weight : 10
 chapter : false
-pre : " <b> 5.9. </b> "
+pre : " <b> 5.10. </b> "
 ---
 
 ### Goal
@@ -26,7 +26,7 @@ This automation reduces manual deployment steps and ensures a consistent build p
 
 Complete the following section:
 
-- **5.9.1 Configure AWS CodeBuild**
+- **5.10.1 Configure AWS CodeBuild**
 
 ---
 
